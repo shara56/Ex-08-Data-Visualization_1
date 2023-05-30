@@ -115,7 +115,7 @@ correlation = tips['total_bill'].corr(tips['tip'])
 print("Correlation coefficient between total_bill and tip:", correlation)
 ```
 
-# OUPUT
+# OUTPUT
 
 ![image](https://github.com/shara56/Ex-08-Data-Visualization_1/assets/113497104/e6f2ad16-4c9e-44c4-b9a4-0ce84ae5d11d)
 
